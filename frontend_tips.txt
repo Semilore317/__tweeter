@@ -1,0 +1,101 @@
+# Use semantic HTML tags to improve accessibility and SEO.
+# Always include alt attributes for images.
+# Use CSS Grid and Flexbox for responsive layouts.
+# Minimize the use of !important in CSS.
+# Use relative units like rem and em for better scalability.
+# Keep your CSS modular and well-organized.
+# Use a CSS preprocessor like SASS or LESS for cleaner stylesheets.
+# Optimize images for faster load times.
+# Lazy-load non-critical resources.
+# Make sure your site is keyboard navigable.
+# Test your UI across multiple browsers.
+# Use browser dev tools for debugging layout and performance issues.
+# Write reusable components in frameworks like React or Vue.
+# Prefer functional components over class-based components.
+# Use hooks in React for managing state and side effects.
+# Avoid inline styles where possible.
+# Apply mobile-first design principles.
+# Make use of media queries for responsive design.
+# Use ARIA roles to enhance accessibility where needed.
+# Keep font loading optimized using font-display: swap.
+# Use localStorage or sessionStorage for lightweight client-side storage.
+# Don't block the main thread with heavy computations.
+# Bundle and minify your JavaScript files.
+# Use a linter like ESLint for consistent code quality.
+# Apply tree-shaking to remove unused code.
+# Use code-splitting to reduce initial load time.
+# Always validate user input.
+# Sanitize HTML input to prevent XSS.
+# Avoid using too many third-party libraries.
+# Understand the difference between == and === in JavaScript.
+# Use async/await for cleaner asynchronous code.
+# Debounce or throttle expensive event handlers.
+# Avoid deeply nested components.
+# Follow a naming convention for CSS classes (e.g., BEM).
+# Prefer CSS-in-JS for scoped styles in component-based frameworks.
+# Use service workers to enable offline functionality.
+# Implement dark mode support using prefers-color-scheme.
+# Use transitions and animations sparingly for performance.
+# Keep the DOM tree shallow for better rendering performance.
+# Validate HTML with a tool like the W3C validator.
+# Don't rely solely on color to convey information.
+# Include focus states for interactive elements.
+# Avoid using fixed heights on containers with dynamic content.
+# Optimize critical rendering path.
+# Compress and cache assets for faster delivery.
+# Use lazy loading for long lists with virtualization.
+# Avoid large bundle sizes in SPAs.
+# Test your site on low-end devices and slow networks.
+# Avoid using alerts, confirms, and prompts for UI.
+# Implement meaningful error messages.
+# Provide loading indicators for async actions.
+# Use version control (like Git) for managing codebase.
+# Use a consistent code formatting tool (e.g., Prettier).
+# Comment your code when necessary, but not excessively.
+# Use TypeScript for better type safety.
+# Use prop-types in React for props validation if not using TypeScript.
+# Don't hardcode strings; support i18n for translations.
+# Ensure color contrast meets accessibility standards.
+# Group related components into folders.
+# Keep business logic out of your UI components.
+# Separate concerns by splitting code into modules.
+# Regularly refactor and remove dead code.
+# Review PRs carefully and encourage team code reviews.
+# Make good use of browser caching.
+# Use favicon and manifest for PWA support.
+# Make your 404 page helpful and on-brand.
+# Use skeleton screens instead of spinners when possible.
+# Avoid jQuery in modern web development.
+# Use a bundler like Vite or Webpack efficiently.
+# Use tools like Lighthouse to audit performance.
+# Write unit tests for reusable components.
+# Use E2E testing for key user flows.
+# Document your components and APIs.
+# Apply DRY (Don't Repeat Yourself) principles.
+# Ensure time/date localization support.
+# Leverage lazy imports for large libraries.
+# Avoid magic numbers in styling or logic.
+# Use environment variables for configuration.
+# Don't ignore browser console warnings.
+# Enable source maps in development for debugging.
+# Use debounce for search inputs to limit API calls.
+# Optimize SVGs before using them.
+# Keep dependencies up to date.
+# Use HTTPS and secure headers.
+# Avoid inline event handlers in HTML.
+# Test responsiveness with browser dev tools’ device mode.
+# Group similar media queries together for clarity.
+# Keep animations under 200ms to feel snappy.
+# Prioritize content that appears above the fold.
+# Avoid FOUT (flash of unstyled text) using font-display settings.
+# Use descriptive link text instead of "click here".
+# Prefer native HTML elements over custom ones when possible.
+# Avoid vendor prefixes; use Autoprefixer.
+# Use design systems or UI libraries (like Chakra, MUI).
+# Use placeholder text carefully—don't replace labels.
+# Include metadata for social sharing (OpenGraph, Twitter cards).
+# Preconnect to third-party origins (e.g., fonts.googleapis.com).
+# Use intersection observer for scroll-based interactions.
+# Don't break the back button with custom routing.
+# Continuously learn—frontend is always evolving!
+"""

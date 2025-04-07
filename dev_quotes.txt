@@ -1,0 +1,100 @@
+"Programs are meant to be read by humans and only incidentally for computers to execute." – Donald Knuth
+"Software is a great combination of artistry and engineering." – Bill Gates
+"In order to be irreplaceable, one must always be different." – Coco Chanel
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis
+"Deleted code is debugged code." – Jeff Sickel
+"Deleted code is debugged code." – Jeff Sickel
+"Fix the cause, not the symptom." – Steve Maguire
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Fix the cause, not the symptom." – Steve Maguire
+"In order to be irreplaceable, one must always be different." – Coco Chanel
+"Software is a great combination of artistry and engineering." – Bill Gates
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Truth can only be found in one place: the code." – Robert C. Martin
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"Programs are meant to be read by humans and only incidentally for computers to execute." – Donald Knuth
+"Good code is its own best documentation." – Steve McConnell
+"The best error message is the one that never shows up." – Thomas Fuchs
+"To iterate is human, to recurse divine." – L. Peter Deutsch
+"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"In order to be irreplaceable, one must always be different." – Coco Chanel
+"The best error message is the one that never shows up." – Thomas Fuchs
+"Talk is cheap. Show me the code." – Linus Torvalds
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"The most important property of a program is whether it accomplishes the intention of its user." – C.A.R. Hoare
+"Good code is its own best documentation." – Steve McConnell
+"Programming is the art of algorithm design and the craft of debugging errant code." – Ellen Ullman
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"Programming is not about typing, it’s about thinking." – Rich Hickey
+"The best error message is the one that never shows up." – Thomas Fuchs
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis
+"Software is a great combination of artistry and engineering." – Bill Gates
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"One man’s crappy software is another man’s full-time job." – Jessica Gaston
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
+"First, solve the problem. Then, write the code." – John Johnson
+"Talk is cheap. Show me the code." – Linus Torvalds
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Programming is not about typing, it’s about thinking." – Rich Hickey
+"Low-level programming is good for the programmer’s soul." – John Carmack
+"Before software can be reusable it first has to be usable." – Ralph Johnson
+"The best error message is the one that never shows up." – Thomas Fuchs
+"In order to be irreplaceable, one must always be different." – Coco Chanel
+"Truth can only be found in one place: the code." – Robert C. Martin
+"Good code is its own best documentation." – Steve McConnell
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Deleted code is debugged code." – Jeff Sickel
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"In order to be irreplaceable, one must always be different." – Coco Chanel
+"The most important property of a program is whether it accomplishes the intention of its user." – C.A.R. Hoare
+"Make it work, make it right, make it fast." – Kent Beck
+"Make it work, make it right, make it fast." – Kent Beck
+"First, solve the problem. Then, write the code." – John Johnson
+"Fix the cause, not the symptom." – Steve Maguire
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"First, solve the problem. Then, write the code." – John Johnson
+"One man’s crappy software is another man’s full-time job." – Jessica Gaston
+"Software is a great combination of artistry and engineering." – Bill Gates
+"Low-level programming is good for the programmer’s soul." – John Carmack
+"Talk is cheap. Show me the code." – Linus Torvalds
+"Low-level programming is good for the programmer’s soul." – John Carmack
+"Make it work, make it right, make it fast." – Kent Beck
+"Simplicity is the soul of efficiency." – Austin Freeman
+"Talk is cheap. Show me the code." – Linus Torvalds
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Software is a great combination of artistry and engineering." – Bill Gates
+"Programming is the art of algorithm design and the craft of debugging errant code." – Ellen Ullman
+"A good programmer is someone who always looks both ways before crossing a one-way street." – Doug Linder
+"First, solve the problem. Then, write the code." – John Johnson
+"Good code is its own best documentation." – Steve McConnell
+"Talk is cheap. Show me the code." – Linus Torvalds
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"One man’s crappy software is another man’s full-time job." – Jessica Gaston
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Programming is the art of algorithm design and the craft of debugging errant code." – Ellen Ullman
+"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late." – Seymour Cray
+"Programming is the art of algorithm design and the craft of debugging errant code." – Ellen Ullman
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis
+"It’s not a bug – it’s an undocumented feature." – Anonymous
+"First, solve the problem. Then, write the code." – John Johnson
+"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late." – Seymour Cray
+"Make it work, make it right, make it fast." – Kent Beck
+"Good code is its own best documentation." – Steve McConnell
+"One man’s crappy software is another man’s full-time job." – Jaessica Gaston
+"Good code is its own best documentation." – Steve McConnell
+"Talk is cheap. Show me the code." – Linus Torvalds
+"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson

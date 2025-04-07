@@ -1,0 +1,299 @@
+# Use semantic HTML tags to improve accessibility and SEO.
+Why settle for a plain <div> when a <section> sings with purpose? Semantic tags like <article>, <nav>, or <aside> whisper meaning to screen readers and search engines alike, lifting both accessibility and discoverability. How do you decide when a tag carries enough intent?
+
+# Always include alt attributes for images.
+A picture may paint a thousand words, but without alt text, it’s mute to some. Craft it with care—“A golden retriever bounds through a sunlit field”—and sidestep vague nothings like “dog pic.” What story does your alt text tell?
+
+# Use CSS Grid and Flexbox for responsive layouts.
+Flexbox flows like a river, guiding elements in a single direction, while Grid carves a canvas for two-dimensional mastery. Imagine a photo gallery—Grid aligns it effortlessly. Which do you reach for when the layout whispers “adapt”?
+
+# Minimize the use of !important in CSS.
+!Important is a sledgehammer—effective, but it shatters specificity’s delicate dance. Save it for dire moments, like taming third-party styles. How often do you resist its blunt allure?
+
+# Use relative units like rem and em for better scalability.
+Pixels pin you down, but rem and em breathe with the design. Rem roots itself in the document’s font-size, em in its parent’s embrace—scalable elegance. How do you choose between them in a nested world?
+
+# Keep your CSS modular and well-organized.
+A sprawling stylesheet is a labyrinth; instead, carve paths—/styles/buttons.css, /styles/forms.css. It’s a garden, not a jungle. How do you tame your styles without losing their soul?
+
+# Use a CSS preprocessor like SASS or LESS for cleaner stylesheets.
+SASS unfurls nesting like a poet’s verse, mirroring HTML’s rhythm. Yet, too many layers weigh heavy—where do you draw the line to keep it light and lovely?
+
+# Optimize images for faster load times.
+An unoptimized image is a guest who lingers too long. Compress with WebP or shave bytes with ImageOptim—aim for featherweight files that still dazzle. What’s your secret to balancing speed and beauty?
+
+# Lazy-load non-critical resources.
+Why burden the stage with props not yet needed? Lazy-load images below the fold, but ponder—does deferring content dim your SEO spotlight? How do you weigh the trade-offs?
+
+# Make sure your site is keyboard navigable.
+A site that dances only to a mouse forgets half its audience. Tab through it—do buttons glow with focus? Links beckon clearly? How do you ensure every step feels intentional?
+
+# Test your UI across multiple browsers.
+Chrome’s polish, Firefox’s grit, Safari’s quirks, Edge’s quiet rise—each tells a story. Test them all, for users roam wide. How do you reconcile their subtle differences?
+
+# Use browser dev tools for debugging layout and performance issues.
+Dev tools are your lantern in the dark—peek at the Performance tab to catch a repaint’s stutter or a layout’s sigh. What hidden gem in there has saved your day?
+
+# Write reusable components in frameworks like React or Vue.
+A button isn’t just a button—it’s a chameleon, shifting with props like variant or size. Craft it once, use it everywhere. What makes your components sing across contexts?
+
+# Prefer functional components over class-based components.
+Classes lumber where functions glide—lean, readable, and hook-friendly. Still, might a class’s lifecycle charm you in rare moments? When do you let nostalgia win?
+
+# Use hooks in React for managing state and side effects.
+Hooks weave state and effects into a tapestry—useState for a thread of data, useEffect for a ripple of action. Can they tangle if you lean on them too much?
+
+# Avoid inline styles where possible.
+Inline styles are a quick sketch, not a masterpiece—lacking media queries, uncacheable. Reach for CSS instead, but when does convenience trump elegance?
+
+# Apply mobile-first design principles.
+Begin with the small screen’s humility, then bloom outward with min-width queries. It’s a foundation, not an afterthought. Why does starting small feel so liberating?
+
+# Make use of media queries for responsive design.
+Media queries are your brushstrokes—paint a layout that bends at 768px or stretches at 1200px. Do you cluster them by component or let them flow free?
+
+# Use ARIA roles to enhance accessibility where needed.
+A <div> masquerading as a button needs a voice—role="button" speaks for it. But when does native HTML already carry the tune?
+
+# Keep font loading optimized using font-display: swap.
+Fonts that dawdle leave a flash of unstyled text—font-display: swap swaps in a fallback, swift and smooth. How do you measure the grace it lends?
+
+# Use localStorage or sessionStorage for lightweight client-side storage.
+localStorage lingers like a memory, sessionStorage fades with the tab’s close. A cart here, a preference there—how much do you trust them to hold?
+
+# Don't block the main thread with heavy computations.
+The main thread is a stage—don’t clog it with heavy lifting. Offload to Web Workers for the grunt work. What task have you freed it from lately?
+
+# Bundle and minify your JavaScript files.
+Minify strips the fat—whitespace, long names—leaving a lean script. A 1MB bundle might shrink by half. How do you gauge its worth?
+
+# Use a linter like ESLint for consistent code quality.
+ESLint is your gentle critic—no unused vars, quotes aligned. It’s harmony, not tyranny. How strict do you set its gaze?
+
+# Apply tree-shaking to remove unused code.
+Tree-shaking prunes the dead branches—unused exports fall away. Yet dynamic imports can elude it—how do you ensure the cut is clean?
+
+# Use code-splitting to reduce initial load time.
+Split at routes or hefty components—let the app load in sips, not gulps. How do you know when the first bite feels just right?
+
+# Always validate user input.
+Unruly input is a gatecrasher—validate it, lest it topple your app or worse. How do you catch the wildcards, like a rogue emoji?
+
+# Sanitize HTML input to prevent XSS.
+Raw HTML invites mischief—<script> tags lurk. DOMPurify sweeps them clean. What havoc has a missed sanitization wrought?
+
+# Avoid using too many third-party libraries.
+Libraries pile up like borrowed books—500KB, 10 dependencies, and you’re teetering. When do you say “enough” and write your own?
+
+# Understand the difference between == and === in JavaScript.
+== bends types, === stands firm— "1" == 1 stumbles, === holds true. When does loose equality sneak into your favor?
+
+# Use async/await for cleaner asynchronous code.
+Promises chain like a novel’s chapters; async/await reads like poetry. How do you keep errors from sprawling across your verse?
+
+# Debounce or throttle expensive event handlers.
+Debounce waits for silence—perfect for search. Throttle paces the storm—ideal for scrolls. Which calms your wildest event?
+
+# Avoid deeply nested components.
+Nesting burrows deep, tangling state and slowing renders. Five levels down, do you still see daylight?
+
+# Follow a naming convention for CSS classes (e.g., BEM).
+BEM crafts clarity—button__icon--large tells its tale. How does it stack against the chaos of unscoped styles?
+
+# Prefer CSS-in-JS for scoped styles in component-based frameworks.
+CSS-in-JS fences styles to their homes—no global clashes. Does its runtime hum ever dim your enthusiasm?
+
+# Use service workers to enable offline functionality.
+Service workers are quiet heroes, caching for the offline stage. How do you script their simplest encore?
+
+# Implement dark mode support using prefers-color-scheme.
+Dark mode drapes your app in shadow—CSS variables shift, media queries listen. How do you honor a user’s chosen hue?
+
+# Use transitions and animations sparingly for performance.
+A transform glides, opacity stumbles—keep them swift and rare. What motion has delighted without dragging?
+
+# Keep the DOM tree shallow for better rendering performance.
+A deep DOM groans under reflows—flatten it, let it breathe. How do you simplify a form’s tangled roots?
+
+# Validate HTML with a tool like the W3C validator.
+A stray tag or duplicate ID jars the harmony—validate to find peace. How often do you seek its judgment?
+
+# Don't rely solely on color to convey information.
+Color alone is a whisper to the colorblind—pair it with shape or text. How do you ensure every signal shines?
+
+# Include focus states for interactive elements.
+A focused button should glow—outline: 2px solid blue beckons. How do you make it bold yet beautiful?
+
+# Avoid using fixed heights on containers with dynamic content.
+Fixed heights cage the unknown—text spills, layouts crack. How do you let content stretch free?
+
+# Optimize critical rendering path.
+The critical path is your opening act—HTML, CSS, JS for the first glimpse. How do you trim it to dazzle fast?
+
+# Compress and cache assets for faster delivery.
+Gzip squeezes, Brotli refines—cache on a CDN for encore speed. What’s the lightest your app has flown?
+
+# Use lazy loading for long lists with virtualization.
+Virtualization paints only what’s seen—10,000 rows, no sweat. How do you keep the scroll silky?
+
+# Avoid large bundle sizes in SPAs.
+A lean bundle—200KB gzipped—flies. A bloated one lags. How do you pare your React app to its essence?
+
+# Test your site on low-end devices and slow networks.
+Throttle to 3G, shrink to an old phone—does it still sing? What’s the humblest device you’ve tamed?
+
+# Avoid using alerts, confirms, and prompts for UI.
+Alerts halt the dance—modals sway instead. How do you soften a harsh interruption?
+
+# Implement meaningful error messages.
+“Connection lost—try again” soothes; “Error 500” stings. How do you craft comfort in failure?
+
+# Provide loading indicators for async actions.
+A spinner twirls for waits over 300ms—short enough to trust, long enough to notice. How do you avoid a flicker?
+
+# Use version control (like Git) for managing codebase.
+Git weaves your story—branches for features, PRs for polish. How do you untangle a merge gone awry?
+
+# Use a consistent code formatting tool (e.g., Prettier).
+Prettier brushes your code smooth—no debates, just flow. How do you wed it to ESLint’s rigor?
+
+# Comment your code when necessary, but not excessively.
+A comment illuminates—“regex splits by comma”—but “i++ // increment” dims. What mystery deserves your note?
+
+# Use TypeScript for better type safety.
+TypeScript guards your props, catching slips before they fall. How do you type a shape-shifting union?
+
+# Use prop-types in React for props validation if not using TypeScript.
+Prop-types whisper warnings in dev—runtime’s gentle nudge. When do you let them fade?
+
+# Don't hardcode strings; support i18n for translations.
+Strings locked in code spurn the world—react-i18next opens doors. How do you weave in a user’s name?
+
+# Ensure color contrast meets accessibility standards.
+4.5:1 contrast lifts text from its backdrop—WCAG’s call. How do you test its clarity?
+
+# Group related components into folders.
+A button nests with its styles—/components/Button/Button.js. How deep do you let your folders bloom?
+
+# Keep business logic out of your UI components.
+UI paints, logic thinks—hooks or utils bear the weight. How do you spot a component growing too wise?
+
+# Separate concerns by splitting code into modules.
+UI and data part ways—modules stay small, focused. How fine do you slice your concerns?
+
+# Regularly refactor and remove dead code.
+Dead code lingers like dust—ESLint sweeps, webpack reveals. How often do you polish your craft?
+
+# Review PRs carefully and encourage team code reviews.
+A PR under 300 lines invites keen eyes—quality over haste. How do you nurture a team’s critique?
+
+# Make good use of browser caching.
+ETags and Cache-Control cradle assets—static files linger. How long do you let them rest?
+
+# Use favicon and manifest for PWA support.
+A manifest crowns your app—name, icons, start_url. How do you test its PWA grace?
+
+# Make your 404 page helpful and on-brand.
+A 404 guides, not scolds—links home, a dash of wit. How do you keep it true to your voice?
+
+# Use skeleton screens instead of spinners when possible.
+Skeletons hint at shape, easing the wait—spinners just spin. How do you craft their subtle promise?
+
+# Avoid jQuery in modern web development.
+jQuery’s era wanes—React and DOM suffice. When does its old magic still tempt you?
+
+# Use a bundler like Vite or Webpack efficiently.
+Vite races in dev, Webpack shines in prod—both sculpt your build. How do you pick your champion?
+
+# Use tools like Lighthouse to audit performance.
+Lighthouse scores your craft—90+ on mobile gleams. How do you lift a lagging FCP?
+
+# Write unit tests for reusable components.
+Test props, state, renders—ensure the button bends, not breaks. How do you mock a tricky hook?
+
+# Use E2E testing for key user flows.
+Login to checkout—E2E guards the journey. Cypress or Playwright—which calls to you?
+
+# Document your components and APIs.
+Storybook frames components, JSDoc lights APIs—clarity for all. How much detail feels just right?
+
+# Apply DRY (Don't Repeat Yourself) principles.
+Duplicate fetch logic begs a hook—DRY keeps it crisp. When does abstraction blur the line?
+
+# Ensure time/date localization support.
+Dates shift with lands—date-fns or Intl weave the thread. How do you tame time zones?
+
+# Leverage lazy imports for large libraries.
+React.lazy() delays the load—Suspense catches the fall. How do you soften the wait?
+
+# Avoid magic numbers in styling or logic.
+42px padding mystifies—--spacing-md clarifies. Where do you banish the arcane?
+
+# Use environment variables for configuration.
+Env vars shield keys from code—secrets stay safe. How do you ferry them to prod?
+
+# Don't ignore browser console warnings.
+“Missing key” nags—heed it, lest chaos creeps. Which warning have you silenced lately?
+
+# Enable source maps in development for debugging.
+Source maps unravel minified knots—dev’s lifeline. How do you shield them from prod?
+
+# Use debounce for search inputs to limit API calls.
+300ms debounce steadies the storm—API rests. How do you tune it to the user’s rhythm?
+
+# Optimize SVGs before using them.
+SVGO trims SVG fat—logos lighten. How small can your art shrink?
+
+# Keep dependencies up to date.
+npm outdated flags the old—Dependabot nudges. How do you face a breaking change?
+
+# Use HTTPS and secure headers.
+HTTPS locks the door—headers like CSP fortify. How do you test your walls?
+
+# Avoid inline event handlers in HTML.
+onclick="foo()" muddies the waters—lift it out. How do you cleanse old markup?
+
+# Test responsiveness with browser dev tools’ device mode.
+iPhone SE squeezes tight—does it hold? How do you mimic a finger’s tap?
+
+# Group similar media queries together for clarity.
+Queries by component or breakpoint—order calms the chaos. How do you keep them from sprawling?
+
+# Keep animations under 200ms to feel snappy.
+200ms dances on perception’s edge—swift, not sluggish. How do you time your flair?
+
+# Prioritize content that appears above the fold.
+The first 600px greet the eye—load them fast. How do you defer the depths?
+
+# Avoid FOUT (flash of unstyled text) using font-display settings.
+font-display: swap swaps in grace—no FOUT jarring. How do you pick a fallback’s face?
+
+# Use descriptive link text instead of "click here".
+“Download PDF” guides—“click here” gropes. How do you make links sing?
+
+# Prefer native HTML elements over custom ones when possible.
+<button> hums with access—custom tags need coaxing. When do you forge your own?
+
+# Avoid vendor prefixes; use Autoprefixer.
+Autoprefixer sprinkles -webkit- where needed—clean and sure. How do you tune its reach?
+
+# Use design systems or UI libraries (like Chakra, MUI).
+Chakra’s buttons align—MUI’s grid steadies. How do you bend them to your will?
+
+# Use placeholder text carefully—don’t replace labels.
+Placeholders hint, not speak—labels endure. How do you suggest without supplanting?
+
+# Include metadata for social sharing (OpenGraph, Twitter cards).
+og:title, og:image frame the share—previews pop. How do you test their shine?
+
+# Preconnect to third-party origins (e.g., fonts.googleapis.com).
+Preconnect races ahead—DNS bows early. How much speed do you steal?
+
+# Use intersection observer for scroll-based interactions.
+Scroll listeners fade—intersection observer spies. How do you lazy-load with finesse?
+
+# Don't break the back button with custom routing.
+Routing that forgets history jars—keep it fluid. How do you test the flow?
+
+# Continuously learn—frontend is always evolving!
+WebGPU looms, Server Components beckon—frontend shifts. How do you chase its horizon?
